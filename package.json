@@ -1,0 +1,9 @@
+{
+  "name": "hello_yarn",
+  "version": "0.0.1",
+  "description": "hello project",
+  "main": "index.js",
+  "repository": "https://github.com/Limon4egtop/front-and-back",
+  "author": "Limon4egtop <Telegram:@Limon4egtop>",
+  "license": "MIT"
+}
