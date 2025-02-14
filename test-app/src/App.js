@@ -1,6 +1,6 @@
 import logo from './logo2.jpg';
 import './App.css';
-// еуые
+// еуы123
 
 function App() {
   return (
