@@ -1,5 +1,6 @@
 import logo from './logo2.jpg';
 import './App.css';
+// еуые
 
 function App() {
   return (
